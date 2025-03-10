@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.color-box[data-v-09e845ec] {
+  transition: background-color 0.5s; /* Agregamos una transición para suavizar el cambio de color */
+}
+.t-trama.p-progressbar[data-v-09e845ec] {
+  border: solid 1px;
+  height: 1.5rem;
+  background: none;
+  border-radius: 3px;
+}

@@ -1,0 +1,20 @@
+
+.contValorizacion {
+    background-image: url('../../../../../_img/arfsis/selloValorizacion.png'); 
+    background-position: right bottom;
+    background-size: 10rem;
+    background-repeat: no-repeat;
+    margin: auto;
+    /* background-image: url('../../../../../_img/arfsis/selloValorizacion.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 100%;
+    height: auto;
+    margin: auto; */
+}
+.contValorizacion img {
+    padding: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.5;
+}

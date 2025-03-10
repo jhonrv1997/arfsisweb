@@ -1,0 +1,7 @@
+.p-fieldset.p-fieldset-toggleable .p-fieldset-legend a {
+  padding: 0.4rem !important;
+  font-size: 12px;
+}
+.p-fieldset .p-fieldset-legend {
+  background: none !important;
+}

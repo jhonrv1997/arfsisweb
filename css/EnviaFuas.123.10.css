@@ -1,0 +1,49 @@
+.template .p-button i[data-v-504a3ec8] {
+  line-height: 2.25rem;
+}
+.template .p-button.enviar[data-v-504a3ec8] {
+  background: linear-gradient(to left, var(--purple-600) 50%, var(--purple-700) 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: background-position 0.5s ease-out;
+  color: #fff;
+  border-color: var(--purple-700);
+}
+.template .p-button.enviar[data-v-504a3ec8]:hover {
+  background-position: left bottom;
+}
+.template .p-button.enviar i[data-v-504a3ec8] {
+  background-color: var(--purple-700);
+}
+.template .p-button.enviar[data-v-504a3ec8]:focus {
+  box-shadow: 0 0 0 1px var(--purple-400);
+}
+.template .p-button.descargar[data-v-504a3ec8] {
+  background: linear-gradient(to left, var(--pink-600) 50%, var(--pink-700) 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: background-position 0.5s ease-out;
+  color: #fff;
+  border-color: var(--pink-700);
+}
+.template .p-button.descargar[data-v-504a3ec8]:hover {
+  background-position: left bottom;
+}
+.template .p-button.descargar i[data-v-504a3ec8] {
+  background-color: var(--pink-700);
+}
+.template .p-button.descargar[data-v-504a3ec8]:focus {
+  box-shadow: 0 0 0 1px var(--pink-400);
+}
+@media screen and (max-width: 640px) {
+.p-button[data-v-504a3ec8] {
+    margin-bottom: 0.5rem;
+}
+.p-button[data-v-504a3ec8]:not(.p-button-icon-only) {
+    display: flex;
+    width: 100%;
+}
+.p-buttonset .p-button[data-v-504a3ec8] {
+    margin-bottom: 0;
+}
+}

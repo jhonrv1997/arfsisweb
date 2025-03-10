@@ -1,0 +1,19 @@
+#messageSuspended[data-v-4493e4e2] {
+  text-align: left;
+  padding: 15px;
+  color: #856404;
+  background-color: #fff3cd;
+  border-color: #ffeeba;
+  border-radius: 5px;
+}
+.btn-secondary[data-v-4493e4e2] {
+  color: #475569;
+  background: #dee2e6;
+  border: 1px solid #dee2e6;
+  font-size: 1.1rem;
+}
+.btn-secondary[data-v-4493e4e2]:hover {
+  background: #6c757d;
+  border: #6c757d;
+  color: #fff;
+}

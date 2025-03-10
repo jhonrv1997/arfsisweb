@@ -1,0 +1,114 @@
+.fuas-list[data-v-28fa98bf] {
+  max-height: 300px;
+  overflow-y: auto;
+  margin-top: 5px;
+  border: 2px solid #dee2e6;
+  padding: 20px 30px;
+}
+.fuas-list li[data-v-28fa98bf] {
+  margin-bottom: 20px;
+}
+.list-observed[data-v-28fa98bf] {
+  margin: 0px;
+  width: 150px;
+  padding: 15px;
+  text-align: left;
+  line-height: 1.5;
+}
+.title-container[data-v-28fa98bf] {
+  width: 90px;
+  flex-direction: column;
+  display: flex;
+  text-align: center;
+  justify-content: start;
+}
+.title-leggend[data-v-28fa98bf] {
+  font-weight: 600;
+  color: #0b7ad1;
+  margin-top: 5px;
+}
+.container-result-statuspaquete[data-v-28fa98bf] {
+  font-size: 1.1rem;
+}
+.container-result-statuspaquete .fw-5[data-v-28fa98bf] {
+  font-weight: 700 !important;
+}
+.container-result-statuspaquete p[data-v-28fa98bf] {
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+}
+.container-result-statuspaquete p .p-tag[data-v-28fa98bf] {
+  font-size: 14px;
+  margin-left: 15px;
+}
+.container-result-statuspaquete hr[data-v-28fa98bf] {
+  border-color: #e9ecef !important;
+}
+.container-result-statuspaquete .status-general[data-v-28fa98bf] {
+  margin-bottom: 20px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 1px 0px;
+  padding-bottom: 1px;
+}
+.container-result-statuspaquete .status-general .message-status[data-v-28fa98bf] {
+  margin-left: 10px;
+  font-weight: 600;
+  color: #0d89ec;
+  font-size: 15px;
+}
+.container-result-statuspaquete .progress-status-container[data-v-28fa98bf] {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+}
+.templatingVerificaPaquete .p-dialog-content p[data-v-28fa98bf] {
+  font-size: 14px !important;
+}
+.template .p-button i[data-v-28fa98bf] {
+  line-height: 2.25rem;
+}
+.template .p-button.enviar[data-v-28fa98bf] {
+  background: linear-gradient(to left, var(--purple-600) 50%, var(--purple-700) 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: background-position 0.5s ease-out;
+  color: #fff;
+  border-color: var(--purple-700);
+}
+.template .p-button.enviar[data-v-28fa98bf]:hover {
+  background-position: left bottom;
+}
+.template .p-button.enviar i[data-v-28fa98bf] {
+  background-color: var(--purple-700);
+}
+.template .p-button.enviar[data-v-28fa98bf]:focus {
+  box-shadow: 0 0 0 1px var(--purple-400);
+}
+.template .p-button.descargar[data-v-28fa98bf] {
+  background: linear-gradient(to left, var(--pink-600) 50%, var(--pink-700) 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: background-position 0.5s ease-out;
+  color: #fff;
+  border-color: var(--pink-700);
+}
+.template .p-button.descargar[data-v-28fa98bf]:hover {
+  background-position: left bottom;
+}
+.template .p-button.descargar i[data-v-28fa98bf] {
+  background-color: var(--pink-700);
+}
+.template .p-button.descargar[data-v-28fa98bf]:focus {
+  box-shadow: 0 0 0 1px var(--pink-400);
+}
+@media screen and (max-width: 640px) {
+.p-button[data-v-28fa98bf] {
+    margin-bottom: 0.5rem;
+}
+.p-button[data-v-28fa98bf]:not(.p-button-icon-only) {
+    display: flex;
+    width: 100%;
+}
+.p-buttonset .p-button[data-v-28fa98bf] {
+    margin-bottom: 0;
+}
+}

@@ -1,0 +1,36 @@
+.alertdialog {
+  border-style: solid;
+  border-color: #cb0404;
+  border-width: thin;
+}
+.alertdialog .p-dialog-header {
+  background: #cb0404;
+  color: #FFFFFF;
+}
+.alertdialog .p-dialog-content {
+  padding: 0 0 0 0;
+}
+.alertdialog .iconWarn {
+  color: #DE0000;
+  font-size: 10rem;
+}
+.btn1 {
+  border-color: #F5F5F5;
+  background: #F5F5F5;
+  color: #000;
+}
+.btn1:enabled:hover {
+  border-color: #F5F5F5;
+  background-color: #708090;
+  color: white;
+}
+.btn2 {
+  border-color: #DE0000;
+  background: #DE0000;
+  color: #fff;
+}
+.btn2:enabled:hover {
+  border-color: #F5F5F5;
+  background-color: #DA0D0D;
+  color: white;
+}
